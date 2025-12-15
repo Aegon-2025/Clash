@@ -12,6 +12,10 @@ DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,support.microsoft.com
 
+#控屏软件
+DOMAIN-KEYWORD,oray
+DOMAIN-KEYWORD,sunlogin
+
 # Bing
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,bing.com
